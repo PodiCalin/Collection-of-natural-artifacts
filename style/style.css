@@ -378,7 +378,9 @@ a {
 
 .help__input:focus {
     cursor: auto;
-    opacity: none;
+    background-color: white;
+    color: #0B1919;
+    font-weight: 600;
     outline: 1px solid #BAE249;
     outline-offset: 3px;
 }
